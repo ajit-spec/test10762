@@ -1,1 +1,2 @@
-grapes in green in color
+Grapes grow on vines in clusters.
+They can be purple, green, or red in color.
